@@ -1,2 +1,2 @@
-# Python_Study
-记录每天学习Python的过程。
+# C_Study
+记录每天学习C的过程。
