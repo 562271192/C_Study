@@ -1,0 +1,20 @@
+#include <stdio.h>
+/*
+	* Project content£ºPrint the specified content
+	* Creating time: 2021-06-29
+	* Founder: Jingjie
+	* Code function£º
+*/
+int main(int argc, char* argv[])
+{
+	printf("Menu ");
+	printf("===================================");
+	printf("1. Input the students¡¯ names and scores ");
+	printf("2. Search scores of some students");
+	printf("3. Modify scores of some students");
+	printf("4. List all students¡¯ scores ");
+	printf("5. Quit the system ");
+	printf("=================================== ");
+	printf("Please input your choise (1-5): ");
+	return 0;
+}
