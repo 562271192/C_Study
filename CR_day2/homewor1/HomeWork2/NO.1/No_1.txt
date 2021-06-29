@@ -1,0 +1,9 @@
+/*
+	* Project content：写出58.25的16进制
+	* Creating time: 2021-06-29
+	* Founder: Jingjie
+*/
+
+
+58的16进制数字：
+42 69 00 00 
